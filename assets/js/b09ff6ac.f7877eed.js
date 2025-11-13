@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkhla_quickstart_guide=globalThis.webpackChunkhla_quickstart_guide||[]).push([[7448],{5394:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/hla-quickstart-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
